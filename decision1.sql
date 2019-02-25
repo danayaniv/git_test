@@ -1,1 +1,1 @@
-select * from risk.clients limit 10
+select * from risk.owners limit 10
